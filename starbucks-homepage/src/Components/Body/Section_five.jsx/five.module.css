@@ -1,0 +1,43 @@
+
+.s_five{
+    width: 100%;
+    height: auto;
+    padding: 4rem;
+    box-sizing: border-box;
+    color: black;
+    font-weight: 400;
+}
+
+.s_five_container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.s_five_container p:hover{
+    color: black;
+}
+
+.s_five_container p:first-child{
+
+    margin-bottom: 0.1rem;
+}
+
+.s_five_container p:nth-child(2){
+    margin-top: 0.1rem;
+    margin-bottom: 0.1rem;
+}
+
+.s_five_container p:nth-child(2) span{
+  text-decoration: underline;
+}
+
+.s_five_container p:last-child{
+    width: 50%;
+}
+
+.s_five_container p:last-child span{
+    text-decoration: underline;
+}
+
