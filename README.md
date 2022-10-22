@@ -6,7 +6,7 @@ This websites provides you with beautiful landing page of the official Starbucks
 
 **Original website link**: https://www.starbucks.com/
 
-**Vercel link of the project**: https://unsplash-clone-photos.netlify.app/
+**Vercel link of the project**: https://starbucks-homepage-clone-vert.vercel.app/
 
 ## Author
 
